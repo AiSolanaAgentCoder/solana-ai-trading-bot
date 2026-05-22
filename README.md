@@ -1,6 +1,5 @@
 # 🧠 Solana AI Trading Signal Bot
 
-[![CI](https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot/actions)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-purple.svg)](https://solana.com)
