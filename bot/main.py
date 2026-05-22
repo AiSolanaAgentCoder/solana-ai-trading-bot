@@ -1,5 +1,5 @@
 """
-Solana AI Trading Signal Bot — Entry Point.
+Solana Ai Trading Bot — Entry Point.
 
 Initialises all services, registers Telegram handlers, and starts
 the bot with graceful shutdown support.

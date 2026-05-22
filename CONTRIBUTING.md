@@ -7,8 +7,8 @@ get started.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/solana-ai-signals.git
-cd solana-ai-signals
+git clone https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot.git
+cd solana-ai-trading-bot
 
 # Create virtual environment
 python -m venv .venv
@@ -56,7 +56,7 @@ pytest tests/test_predictor.py -v
 ## Project Structure
 
 ```
-solana-ai-signals/
+solana-ai-trading-bot/
 ├── bot/          # Telegram bot handlers
 ├── ai/           # ML prediction engine
 ├── blockchain/   # Solana RPC & DEX integration

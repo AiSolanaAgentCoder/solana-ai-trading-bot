@@ -1,1 +1,1 @@
-"""Test suite for Solana AI Trading Signal Bot."""
+"""Test suite for Solana Ai Trading Bot."""

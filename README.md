@@ -1,7 +1,6 @@
-# 🧠 Solana AI Trading Bot
+# 🧠 Solana Ai Trading Bot
 
-Next-generation AI-powered Solana trading infrastructure for sniping, automation, smart wallet tracking and advanced DeFi execution.
-
+[![CI](https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot/actions)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-purple.svg)](https://solana.com)
@@ -30,19 +29,16 @@ Whether you're a **trader** looking for an edge, a **developer** building your p
 
 ---
 
-## 📸 See It in Action
+## 📸 UI & Dashboard
 
-<p align="center">
-  <img src="assets/screenshots/welcome.png" width="280" alt="Welcome Screen" />
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/signal.png" width="280" alt="Signal Analysis" />
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/trending.png" width="280" alt="Trending Tokens" />
-</p>
+### Bot Dashboard
+![Bot Dashboard](assets/screenshots/soltradebotdash.png)
 
-<p align="center">
-  <sub><b>Left:</b> Welcome screen with live SOL price &nbsp;|&nbsp; <b>Center:</b> AI signal with confidence breakdown &nbsp;|&nbsp; <b>Right:</b> Trending tokens ranked by volume</sub>
-</p>
+### Trading Settings & Risk Management
+![Settings & Risk Management](assets/screenshots/soltradebotsettings.png)
+
+### Advanced Telegram Bot Interface
+![Telegram Bot Interface](assets/screenshots/soltradebottg.png)
 
 ---
 

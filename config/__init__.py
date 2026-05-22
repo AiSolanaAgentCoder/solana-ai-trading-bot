@@ -1,4 +1,4 @@
-"""Configuration module for Solana AI Trading Signal Bot."""
+"""Configuration module for Solana Ai Trading Bot."""
 
 from config.settings import Settings, get_settings
 

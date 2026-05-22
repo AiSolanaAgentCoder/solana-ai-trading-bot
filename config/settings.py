@@ -17,7 +17,7 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    """Central configuration for the Solana AI Trading Signal Bot."""
+    """Central configuration for the Solana Ai Trading Bot."""
 
     # ── Telegram ────────────────────────────────────────────────
     telegram_bot_token: str = Field(
@@ -34,11 +34,11 @@ class Settings(BaseSettings):
 
     # ── AI Model CDN ────────────────────────────────────────────
     model_cdn_url: str = Field(
-        default="https://models.solana-ai-signals.com/v1",
+        default="https://models.solana-ai-trading-bot.com/v1",
         description="Base URL for AI model downloads",
     )
     model_sha256_manifest_url: str = Field(
-        default="https://models.solana-ai-signals.com/v1/manifest.json",
+        default="https://models.solana-ai-trading-bot.com/v1/manifest.json",
         description="URL for model hash manifest",
     )
     model_dir: Path = Field(
