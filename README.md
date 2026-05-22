@@ -1,6 +1,6 @@
 # 🧠 Solana AI Trading Signal Bot
 
-[![CI](https://github.com/your-username/solana-ai-signals/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/solana-ai-signals/actions)
+[![CI](https://github.com/AiSolanaAgentCoder/solana-ai-signals/actions/workflows/ci.yml/badge.svg)](https://github.com/AiSolanaAgentCoder/solana-ai-signals/actions)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-purple.svg)](https://solana.com)
@@ -73,7 +73,7 @@ Whether you're a **trader** looking for an edge, a **developer** building your p
 ### Launch Your Bot
 
 ```bash
-git clone https://github.com/your-username/solana-ai-signals.git
+git clone https://github.com/AiSolanaAgentCoder/solana-ai-signals.git
 cd solana-ai-signals
 pip install -r requirements.txt
 cp .env.example .env   # ← Add your API keys here
