@@ -1,4 +1,6 @@
-# 🧠 Solana AI Trading Signal Bot
+# 🧠 Solana AI Trading Bot
+
+Next-generation AI-powered Solana trading infrastructure for sniping, automation, smart wallet tracking and advanced DeFi execution.
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
