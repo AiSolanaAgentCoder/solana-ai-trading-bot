@@ -1,6 +1,6 @@
 # 🧠 Solana AI Trading Signal Bot
 
-[![CI](https://github.com/AiSolanaAgentCoder/solana-ai-signals/actions/workflows/ci.yml/badge.svg)](https://github.com/AiSolanaAgentCoder/solana-ai-signals/actions)
+[![CI](https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot/actions)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-purple.svg)](https://solana.com)
@@ -73,8 +73,8 @@ Whether you're a **trader** looking for an edge, a **developer** building your p
 ### Launch Your Bot
 
 ```bash
-git clone https://github.com/AiSolanaAgentCoder/solana-ai-signals.git
-cd solana-ai-signals
+git clone https://github.com/AiSolanaAgentCoder/solana-ai-trading-bot.git
+cd solana-ai-trading-bot
 pip install -r requirements.txt
 cp .env.example .env   # ← Add your API keys here
 python -m bot.main
@@ -196,7 +196,7 @@ pytest tests/ --cov=. --cov-report=html
 ## 📁 Project Structure
 
 ```
-solana-ai-signals/
+solana-ai-trading-bot/
 ├── bot/                    # Telegram bot
 │   ├── main.py            # Entry point with graceful shutdown
 │   ├── handlers.py        # All 7 command handlers
